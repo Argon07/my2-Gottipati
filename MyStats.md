@@ -17,3 +17,15 @@ Sports and physical activities are a great way to stay healthy and have fun. Her
 | Soccer          | Soccer is the world's most popular sport, known for its teamwork and endurance. It's easy to start playing with just a ball and a field. | 2-3 hours  |
 | Swimming        | Swimming is a full-body workout that's easy on the joints. It's perfect for cooling off in the summer and improving endurance. | 4-6 hours  |
 | Table Tennis       | Table tennis is a fast-paced indoor sport that improves reflexes and concentration. It's perfect for social gatherings. | 3-4 hours  |
+
+---
+
+## Quotes by Scientists
+
+---
+
+> "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."  
+> — *Charles Darwin*
+
+> "The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it." 
+> — *Kalpana Chawla*

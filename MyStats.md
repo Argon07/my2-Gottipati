@@ -1,7 +1,7 @@
 #AGRAJA GOTTIIPATI
 I'm pretty much intrested in computers and strives to become a Developer in software background.
-<br>
-![My picture](WhatsApp Image 2023-09-05 at 5.49.10 PM.jpeg)
+
+![My picture](img.jpeg)
 
 
 ---

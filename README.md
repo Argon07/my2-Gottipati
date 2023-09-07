@@ -18,5 +18,5 @@ Pink Sea Beach, a hidden oasis on the coast, is where my heart finds solace. Wit
     * Goombay smash
     * Conch Salad
     
-<br>
+
 [WayToMyStats](https://github.com/Argon07/my2-Gottipati/blob/main/MyStats.md)

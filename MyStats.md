@@ -1,7 +1,8 @@
 #AGRAJA GOTTIIPATI
 I'm pretty much intrested in computers and strives to become a Developer in software background.
 <br>
-[MY_PROFILE_PIC](https://github.com/Argon07/my2-Gottipati/blob/main/WhatsApp%20Image%202023-09-05%20at%205.49.10%20PM.jpeg)
+![My picture](WhatsApp Image 2023-09-05 at 5.49.10 PM.jpeg)
+
 
 ---
 
